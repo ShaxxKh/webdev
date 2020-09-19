@@ -1,0 +1,18 @@
+/*BLOCKS' FILES START */
+@import url("assets/_blocks/header.css");
+@import url("assets/blocks/nav.css");
+@import url("assets/blocks/hero.css");
+/*BLOCKS' FILES END */
+
+/*LIB FILES START */
+@import url("assets/lib/variables.css");
+@import url("assets/lib/flex-box.css");
+@import url("assets/lib/ul.css");
+@import url("assets/lib/button.css");
+/*LIB FILES END */
+
+
+body {
+    width: 1600px;
+    font-family: var(--fontPrimary);
+}

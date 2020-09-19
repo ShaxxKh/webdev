@@ -1,0 +1,5 @@
+.button {
+    background-color: var(--colorButton);
+    width: 100%;
+    font-size: 18px;
+}

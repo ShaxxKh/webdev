@@ -1,0 +1,15 @@
+h1 {
+    font-family: var(--fontPrimary);
+    color: var(--colorWhite);
+    font-size: 64px;
+    font-weight: 700;
+}
+.hero__text {
+    font-weight: 400;
+    color: var(--colorWhite);
+    font-size: 18px;
+}
+
+.hero {
+    background-color: orange;
+}
