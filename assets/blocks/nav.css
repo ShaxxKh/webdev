@@ -1,0 +1,26 @@
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 0 160px;
+}
+.nav {
+    margin-right: auto;
+    margin-left: auto;
+}
+.list {
+    justify-content: space-between;
+    padding: 0;
+    font-size: 14px;
+}
+.list__item--lower {
+    padding-top: 15px;
+}
+.list__item {
+    font-family: var(--fontPrimary);
+    color: var(--colorGray);
+}
+.list__item--active {
+    color: var(--colorWhite);
+    text-decoration: underline;
+}

@@ -1,0 +1,19 @@
+/*FONT VARIABLES START*/
+:root {
+    --fontPrimary: "Roboto", sans-serif, serif;
+}
+/*FONT VARIABLES END*/
+
+/*COLOR VARIABLES START*/
+:root {
+    --colorHeading: #373737;
+    --colorText: #4e4e4e;
+    --colorButton: #00afdb;
+    --colorWhite: #ffffff;
+    --colorGray: #cccccc;
+}
+/*COLOR VARIABLES END*/
+
+:root {
+    --gutter: 30px;
+}

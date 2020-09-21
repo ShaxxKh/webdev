@@ -1,0 +1,27 @@
+.footer__list {
+    width: 236px;
+    justify-content: space-between;
+    color: white;
+    margin-top: 73px;
+}
+.footer__made-by {
+    color: #818181;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 73px;
+    justify-content: right;
+}
+.footer__logo {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px;
+}
+.footer {
+    height: 184px;
+    background-color: #000000;
+}
+.footer__wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}

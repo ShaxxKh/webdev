@@ -1,0 +1,22 @@
+.article__heading {
+    font-weight: 700;
+    color: var(--colorHeading);
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+.article__text {
+    font-size: 14px;
+    margin-bottom: 30px;
+    font-weight: 400;
+    line-height: 1.4em;
+    color: var(--colorText);
+}
+.article__info {
+    margin-top: 175px;
+}
+.article__info--right {
+    order: 2;
+}
+.article__info--left {
+    order: 1;
+}

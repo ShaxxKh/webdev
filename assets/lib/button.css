@@ -1,0 +1,9 @@
+.button {
+    background-color: var(--colorButton);
+    width: 100%;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--colorWhite);
+    line-height: 2.9em;
+    border: none;
+}
