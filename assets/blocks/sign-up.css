@@ -1,0 +1,41 @@
+.form__button-wrapper {
+    width: 66px;
+    height: 46px;
+}
+.form__input {
+    width: 340px;
+    height: 46px;
+    border: none;
+    background-color: var(--colorWhite);
+    padding: 0;
+}
+.form__input::placeholder {
+    padding: 24px;
+    font-size: 14px;
+}
+.form__input-wrapper {
+    display: flex;
+}
+.form__heading {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--colorWhite);
+    margin-bottom: 30px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.sign-up {
+    background-image: url("/assets/images/email.png");
+    height: 598px;
+    width: 100%;
+}
+.sign-up__row {
+    margin: 0;
+}
+.sign-up__form {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 217px;
+    height: 100%;
+
+}

@@ -1,10 +1,13 @@
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: 0 160px;
+}
 .nav {
     margin-right: auto;
     margin-left: auto;
-    padding-right: 30px;
-    padding-left: 15px;
-    background-color: blue;
-    }
+}
 .list {
     justify-content: space-between;
     padding: 0;

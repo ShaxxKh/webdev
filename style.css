@@ -1,14 +1,21 @@
+@import url("assets/lib/flex-box.css");
 /*BLOCKS' FILES START */
 @import url("assets/_blocks/header.css");
 @import url("assets/blocks/nav.css");
 @import url("assets/blocks/hero.css");
+@import url("assets/blocks/article.css");
+@import url("assets/blocks/main.css");
+@import url("assets/blocks/community.css");
+@import url("assets/blocks/sign-up.css");
+@import url("assets/blocks/download.css");
+@import url("assets/blocks/footer.css");
 /*BLOCKS' FILES END */
 
 /*LIB FILES START */
 @import url("assets/lib/variables.css");
-@import url("assets/lib/flex-box.css");
 @import url("assets/lib/ul.css");
 @import url("assets/lib/button.css");
+@import url("assets/lib/center.css");
 /*LIB FILES END */
 
 

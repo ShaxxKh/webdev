@@ -1,15 +1,40 @@
-h1 {
+.hero {
+    background-image: url("/assets/images/bg-image-wrapper.png");
+}
+.hero__heading {
     font-family: var(--fontPrimary);
     color: var(--colorWhite);
     font-size: 64px;
     font-weight: 700;
+    letter-spacing: 4.5px;
+    text-align: center;
+    margin: 0 auto;
+    padding-left: 30px;
 }
 .hero__text {
     font-weight: 400;
     color: var(--colorWhite);
     font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    line-height: 1.4em;
 }
-
-.hero {
-    background-color: orange;
+.hero__wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+.hero__button {
+    margin-bottom: 183px;
+}
+.icons {
+    width: 170px;
+    justify-content: space-between;
+}
+.hero__icons {
+    margin: 0 auto;
+    padding: 0;
+}
+.hero__icons-wrapper {
+    justify-content: center;
 }
